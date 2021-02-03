@@ -1,5 +1,7 @@
 # Epitech-PushswapChecker-2021-
 
+Made with @Aurelien-le-camus
+
 ## PushswapChecker:
 
 The goal of this mini-project is to produce a program capable to check if a sequence of push_swap operations effectively sorts a list of integers.
